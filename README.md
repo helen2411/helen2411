@@ -1,4 +1,4 @@
-## Olá, 
+## Olá!
 
 Meu nome é Helen Laís e tenho 21 anos de idade.
 Sou musicista e estudante de Análise e Desenvolvimento de Sistemas.
