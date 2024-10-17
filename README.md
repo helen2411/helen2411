@@ -1,8 +1,11 @@
 ## Olá!
 
 Meu nome é Helen Laís e tenho 21 anos de idade.
+
 Sou musicista e estudante de Análise e Desenvolvimento de Sistemas.
+
 Atualmente atuo como Jovem Aprendiz de T.I na Brasal Refrigerantes (Coca Cola).
+
 Meu objetivo é se tornar uma excelente proffissional na área de Tecnologia.
 
 <!--
