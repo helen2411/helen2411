@@ -6,7 +6,6 @@ Sou musicista e estudante de Análise e Desenvolvimento de Sistemas.
 
 Atualmente atuo como Jovem Aprendiz de T.I na Brasal Refrigerantes (Coca Cola).
 
-Meu objetivo é se tornar uma excelente proffissional na área de Tecnologia.
 
 <!--
 **helen2411/helen2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
